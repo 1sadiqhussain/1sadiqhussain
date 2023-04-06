@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadiq Hussain Shaik</h1>
-<h3 align="center">I am deeply passionate about learning and implementing advanced models in machine learning, AI, and data science. My goal is to leverage my knowledge and skills to contribute to the field and solve real-world problems. I’m committed to staying up-to-date with the latest developments in the field and continuously enhance my skills. I am confident that my passion, drive, and expertise will make me a valuable asset to any organization in the field of data science and machine learning.</h3>
+<h3 align="center">I am currently pursuing MSc in Data Science and deeply passionate about learning and implementing advanced models in machine learning, AI, and data science. My goal is to leverage my knowledge and skills to contribute to the field and solve real-world problems. I’m committed to staying up-to-date with the latest developments in the field and continuously enhance my skills. I am confident that my passion, drive, and expertise will make me a valuable asset to any organization in the field of data science and machine learning.</h3>
 
 
 
