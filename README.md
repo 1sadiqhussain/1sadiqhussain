@@ -7,14 +7,43 @@
 
 ---
 
-### 🚀 **About Me**
-I'm a **Data Scientist and Fraud Analyst** with a **Master’s in Data Science (Distinction)** from the University of Hertfordshire, specializing in financial crime prevention and advanced analytics. My expertise bridges **machine learning, regulatory compliance, and risk mitigation** to secure financial systems and drive data-informed decisions.
+<h3> align="center">
 
-**Key Impact:**
-- 🔍 **1,450+ fraud cases** investigated monthly, preventing **£250K+ losses**
-- 📉 **85% reduction** in first-party fraud through ML models
-- 📈 **245% revenue growth** achieved via data-driven strategies
+I’m a Data Scientist and Fraud Analyst with a Master’s degree in Data Science (University of Hertfordshire) and hands-on experience in financial crime prevention, fraud detection, and advanced analytics. My work focuses on leveraging machine learning, SQL, and compliance tools to safeguard financial systems, optimize risk strategies, and drive data-informed decisions.
 
+🔍 Key Expertise
+Fraud Detection & Prevention:
+
+Investigated 1,450+ fraud cases/month, preventing £250K+ in losses using tools like TS2, TSS, Mastercard SecureCode, Visa, 3-D Secure, and PRIMA TRIGGER CHART.
+
+Reduced first-party fraud by 85% and false card blocks by 75% through process enhancements.
+
+Data Science & Analytics:
+
+Built predictive models (Python, TensorFlow, Keras) for fraud risk scoring, image classification (86.79% accuracy), and IPL match predictions.
+
+Automated data pipelines with PySpark, Kafka, and Airflow, cutting system downtime by 35%.
+
+Compliance & Risk:
+
+Ensured adherence to FCA, GDPR, AML, and KYC standards while collaborating with CIFAS, law enforcement, and cross-functional teams.
+
+🛠️ Technical Toolkit
+Programming & Databases: Python (Pandas, SageMaker), SQL (MySQL, Snowflake, AWS Redshift), PySpark
+Fraud Tools: TS2, TSS, FireVue, CRM, FFE, Mastercard SecureCode, Visa, 3-D Secure, PRIMA TRIGGER CHART
+BI & Visualization: PowerBI, Excel
+Cloud/ML: AWS (Redshift, SageMaker), TensorFlow, Keras, Scikit-learn
+Process Optimization: Lean, Six Sigma (Green Belt), Agile/SAFe
+
+🚀 Recent Achievements
+MSc Dissertation: Developed ML models to predict IPL match outcomes.
+
+High-Performance CNN: Achieved 82%+ accuracy on image classification.
+
+Operational Impact: Spearheaded fraud strategies saving £100K+ at Metro Bank and scaled revenue by 245% at Webfinity Digital.
+
+🌍 Let’s Connect!
+I’m passionate about fraud analytics, regulatory tech (RegTech), and scalable data solutions. Reach out for collaborations on risk modeling, data engineering, or fraud prevention projects!</h3>
 ---
 
 ### 🛠️ **Technical Toolkit**
