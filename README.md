@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadiq Hussain Shaik</h1>
-<h3 align="center">Data Science | Fraud Analytics | AI Solutions</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=MSc+Data+Science+(Distinction);Fraud+Prevention+Specialist;Machine+Learning+Engineer;AWS+Certified" alt="Typing SVG" />
-</div>
+<h3 align="center">MSc Data Science (Distinction) | Fraud Prevention Expert | Data-Driven Risk Analyst
 
 I’m a Data Scientist and Fraud Analyst with a Master’s degree in Data Science (University of Hertfordshire) and hands-on experience in financial crime prevention, fraud detection, and advanced analytics. My work focuses on leveraging machine learning, SQL, and compliance tools to safeguard financial systems, optimize risk strategies, and drive data-informed decisions.
 
@@ -39,10 +35,7 @@ High-Performance CNN: Achieved 82%+ accuracy on image classification.
 Operational Impact: Spearheaded fraud strategies saving £100K+ at Metro Bank and scaled revenue by 245% at Webfinity Digital.
 
 🌍 Let’s Connect!
-I’m passionate about fraud analytics, regulatory tech (RegTech), and scalable data solutions. Reach out for collaborations on risk modeling, data engineering, or fraud prevention projects!
-
-</h3>
-
+I’m passionate about fraud analytics, regulatory tech (RegTech), and scalable data solutions. Reach out for collaborations on risk modeling, data engineering, or fraud prevention projects!</h3>
 ### 🛠️ **Tech Stack**
 #### **Data Science & ML**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
